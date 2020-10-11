@@ -4,8 +4,10 @@
 
 This is a single player game that runs on the ARM Processor of the DE1-SoC board. 
 
-**How to Play:**
+**Game Description:**
 You must keep the penguin alive by catching fish and dodging anvils. You will gain points by catching the fish. However, the game is over if you get hit by most of the anvil.  The penguin is still alive if only the edges of the anvil touches you. If the player can avoid catching anvils and catch up to 10 fish they will have beaten the game.
+
+The game can be played on the CPUlator site which simulates the ARM DE1-SoC system. 
 
 **Operating on CPUlator:**
 - Need to recompile each time you play the game.
